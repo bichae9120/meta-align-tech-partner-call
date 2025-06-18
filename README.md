@@ -30,7 +30,7 @@ to collaborate on developing this alignment method.
 
 ## 🧭 How to Collaborate
 - Submit a proposal via GitHub Issues  
-- Or contact directly by email: contact@example.com (placeholder)
+- Or contact directly by email: vera891119@gmail.com (placeholder)
 
 > NDA can be arranged in advance if needed.  
 > Full technical specifications and ethical framework will be shared upon agreement.
